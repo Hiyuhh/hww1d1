@@ -19,7 +19,7 @@ else:
 # 2. Python Naming Convention Practice
     #fixed error in variable names as we use snake_case
         #removed (<span class="hljs-number">x</span>) from code line >> is not python code 
-pi_value = 3.14
+PI_VALUE = 3.14
 user_age = 25
 user_location = "New York"
 MAX_LIMIT = 1000
