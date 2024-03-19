@@ -9,7 +9,7 @@ else:
 
 
 # Task 2: Your Mood Today
-    mood = "happy"
+mood = "happy"
 if mood == "happy":
     print("That's great to hear!")
 else:
